@@ -1,0 +1,5 @@
+f = open('text.txt')
+a = f.read(1)
+b = f.read()
+print(a)
+print(b)

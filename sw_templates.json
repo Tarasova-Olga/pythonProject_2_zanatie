@@ -1,0 +1,10 @@
+{
+  "access": [
+    "hello world",
+    "python is good"
+  ],
+  "token": [
+    "golang is good",
+    "java is bad"
+  ]
+}
